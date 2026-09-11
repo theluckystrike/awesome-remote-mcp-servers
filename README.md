@@ -174,6 +174,14 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| Invoice | Productivity | `https://mcp.zovo.one/mcp/invoice` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| PDF | Productivity | `https://mcp.zovo.one/mcp/pdf` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| Time Tracker | Productivity | `https://mcp.zovo.one/mcp/time-tracker` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| Expense Tracker | Productivity | `https://mcp.zovo.one/mcp/expense-tracker` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| Spreadsheet | Productivity | `https://mcp.zovo.one/mcp/spreadsheet` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| Currency | Productivity | `https://mcp.zovo.one/mcp/currency` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| Quotes | Productivity | `https://mcp.zovo.one/mcp/quotes` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
+| Bank Statement | Productivity | `https://mcp.zovo.one/mcp/bank-statement` | API Key | [theluckystrike](https://github.com/theluckystrike/mcp-servers) |
 
 # Remote MCP Installation Guide
 
